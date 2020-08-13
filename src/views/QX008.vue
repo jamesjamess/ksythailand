@@ -9,7 +9,7 @@ export default {
   name: "QX008",
   data() {
     return {
-      img: require("/Users/jamesjames/Desktop/KSY/ksy/src/assets/Termometer/QX008/Thermo Gun(9).jpg")
+      img: require("../assets/Termometer/QX008/Thermo Gun(9).jpg")
     };
   }
 };

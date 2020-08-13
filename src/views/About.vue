@@ -36,7 +36,7 @@ export default {
   name: "About",
   data() {
     return {
-      imgUrl1: require("../assets/Logo/logoKSY.png")
+      
     };
   }
 };

@@ -29,7 +29,7 @@ export default {
   name: "Menubar",
   data() {
     return {
-      imgUrl: require("/Users/jamesjames/Desktop/KSY/ksy/src/assets/Logo/logoKSY.png")
+      imgUrl: require("../../assets/Logo/logoKSY.png")
     };
   }
 };

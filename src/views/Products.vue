@@ -33,7 +33,7 @@ export default {
       items: [
         {
           color: "#DFE6E6",
-          src: require("/Users/jamesjames/Desktop/KSY/ksy/src/assets/Termometer/HSF700/HSF700.jpg"),
+          src: require("../assets/Termometer/HSF700/HSF700.jpg"),
           title: "HSF700",
           description:
             "มาตรฐานเครื่องมือแพทย์จากประเทศเกาหลี และนำเข้าถูกต้องตาม อย. กระทรวงสาธารณสุข ต้อนรับรัฐบาลเปิดเมือง แต่ก็ต้องมีเครื่องมือรองรับ ร้านค้า สถานประกอบการณ์ โรงงานต่างๆ",
@@ -41,7 +41,7 @@ export default {
         },
         {
           color: "#DFE6E6",
-          src: require("/Users/jamesjames/Desktop/KSY/ksy/src/assets/Termometer/QX008/Thermo Gun(10).jpg"),
+          src: require("../assets/Termometer/QX008/Thermo Gun(10).jpg"),
           title: "QX008",
           description:
             "มาตรฐานเครื่องมือแพทย์จากประเทศจีน และนำเข้าถูกต้องตาม อย. กระทรวงสาธารณสุข ต้อนรับรัฐบาลเปิดเมือง แต่ก็ต้องมีเครื่องมือรองรับ ร้านค้า สถานประกอบการณ์ โรงงานต่างๆ ",
